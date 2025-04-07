@@ -1,7 +1,7 @@
 # EQ-Negotiator: An Emotion-Reasoning LLM Agent for Credit Dialogues
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/html/2503.21080v2))
 
 ![EQ-Negotiator Architecture](workflow-EQ.png)
 *Figure 1: Emotion-aware negotiation pipeline combining PLMs with game-theoretic reasoning*
