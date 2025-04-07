@@ -19,7 +19,7 @@
 git clone https://github.com/your-repo/EQ-Negotiator.git
 cd EQ-Negotiator
 pip install -r requirements.txt
-
+```
 
 ![EQ-Negotiator Architecture](example.png)
 *Figure 1: Examples*
